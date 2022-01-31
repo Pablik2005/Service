@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/loading.gif</file>
+        <file>img/moxum.ico</file>
+    </qresource>
+</RCC>
